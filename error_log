@@ -1,0 +1,4 @@
+[13-Jul-2017 17:06:09 Asia/Kolkata] PHP Warning:  move_uploaded_file(uploads/1.jpg): failed to open stream: No such file or directory in /home/princess/public_html/upload.php on line 39
+[13-Jul-2017 17:06:09 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpydYr6J' to 'uploads/1.jpg' in /home/princess/public_html/upload.php on line 39
+[13-Jul-2017 17:10:02 Asia/Kolkata] PHP Warning:  move_uploaded_file(uploads/1499945917319-1389957684.jpg): failed to open stream: No such file or directory in /home/princess/public_html/upload.php on line 39
+[13-Jul-2017 17:10:02 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpFAxIY9' to 'uploads/1499945917319-1389957684.jpg' in /home/princess/public_html/upload.php on line 39
